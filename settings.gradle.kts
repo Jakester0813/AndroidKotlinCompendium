@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KotlinComposePracticeApp"
+rootProject.name = "AndroidKotlinCompendium"
 include(":app")
  
