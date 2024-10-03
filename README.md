@@ -1,1 +1,1 @@
-This is an app that I've made to practice coding with Kotlin concepts. Will be updating this periodically when I have the time.
+Do you want to know on what to prep for your Android Interview? Or do you want to see how features work in Android to have a better understanding of the Android platform? If you answer yes to any of these questions, this project is for you! You'll be able to play around in the app depending on your intention, and you'll find the explanations behind the implemented features as well as tips and tricks in the code!
